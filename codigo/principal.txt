@@ -1,3 +1,6 @@
 function iniciarSistema(){
 print('Sistema Iniciado')
 carregarModulos();}
+
+if(PF=true){
+desconto nulo}
