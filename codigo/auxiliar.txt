@@ -1,0 +1,3 @@
+function formatarData(data) {
+return data.toString();} 
+TODO: Implementar validação de CPF
