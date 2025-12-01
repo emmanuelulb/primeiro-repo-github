@@ -1,0 +1,3 @@
+Projeto de desenvolvimento de software dedicado a fábrica de sorvete.
+Ela busca uma automação em seus processos comerciais e de logistica, juntamente com a produção.
+De forma que a pessoa que realiza a venda, consiga executar a ação de vender sabendo o que tem em estoque.
